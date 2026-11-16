@@ -1,6 +1,6 @@
 # Olá 👋, eu sou o Jonathan Ferreira
 
-🚀 **Engenheiro de Dados Júnior | Python · SQL · ETL/ELT · Apache Airflow · AWS · GCP · Azure**  
+🚀 **Engenheiro de Dados | Python · SQL · ETL/ELT · Apache Airflow · AWS · GCP · Azure**  
 📍 Rio de Janeiro, Brasil
 
 Graduando em **Engenharia de Software** com foco em **Engenharia de Dados** e graduado em **Design Gráfico**.  
